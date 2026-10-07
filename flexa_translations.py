@@ -55,7 +55,7 @@ EN = {
         "aria_preview_airside": "BluPrint Airside Designer preview",
         "aria_preview_mp": "BluPrint Master Planner preview",
         "simmula_intro_small": "Simmula Terminal Optimizer",
-        "simmula_intro_h2": "Minimize queues, maximize revenue",
+        "simmula_intro_h2": "Minimize passenger queues, maximize revenue",
         "simmula_intro_p": "Simultaneous analysis of passenger queues, facility utilization, and flow.",
         "simmula_f1_h3": """Simultaneous analysis of passenger <span class="feature-scenario-badge">queues</span>, <span class="feature-purple-badge">facility utilization</span>, and <span class="feature-flow-badge">flow</span>""",
         "simmula_f2_h3": """Access to over <span class="feature-purple-badge">10,000 airports</span> worldwide, with the ability to evaluate <span class="feature-accent">new airport development</span> through combined demand scenarios across multiple airports""",
@@ -110,3 +110,37 @@ EN = {
 from flexa_locales_extra import EXTRA
 
 DATA = {"en": EN, **EXTRA}
+
+# Airport Designer replaces the former standalone Airside product copy.
+from airport_designer_translations import DATA as AIRPORT_DESIGNER
+
+for language, additions in AIRPORT_DESIGNER.items():
+    DATA[language].update(additions)
+
+for translations in DATA.values():
+    for key in ("aria_card_mp", "aria_preview_mp", "mp_intro_small"):
+        translations[key] = translations[key].replace("BluPrint ", "")
+
+# Airport consulting and footer introduction follow the same language selector.
+from consulting_translations import DATA as CONSULTING
+
+for language, additions in CONSULTING.items():
+    DATA[language].update(additions)
+
+# Compact product-carousel headings share the existing language selector.
+from carousel_heading_translations import DATA as CAROUSEL_HEADINGS
+
+for language, additions in CAROUSEL_HEADINGS.items():
+    DATA[language].update(additions)
+
+# Additional locales use checked-in translations; browsing does not call a translation service.
+import json
+from pathlib import Path
+
+_translation_root = Path(__file__).resolve().parent
+for language in ("de", "fr", "ar", "km", "am", "ur", "pt", "it", "nl", "he"):
+    DATA[language] = json.loads((_translation_root / "locales" / f"{language}.json").read_text(encoding="utf-8"))
+
+_consulting_scope = json.loads((_translation_root / "consulting_scope_translations.json").read_text(encoding="utf-8"))
+for language, additions in _consulting_scope.items():
+    DATA[language].update(additions)

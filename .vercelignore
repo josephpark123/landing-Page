@@ -1,0 +1,7 @@
+# Publish the static site and its assets only.
+/*
+!/index.html
+!/solutions.html
+!/i18n.js
+!/vercel.json
+!/web

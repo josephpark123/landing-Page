@@ -1,0 +1,85 @@
+/* Same-origin pages move as two adjacent carousel panels. */
+@view-transition { navigation: auto; }
+
+::view-transition-group(root) {
+  animation-duration: 1050ms;
+  animation-timing-function: cubic-bezier(.65, 0, .35, 1);
+}
+::view-transition-image-pair(root) { isolation: isolate; }
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 1050ms;
+  animation-timing-function: cubic-bezier(.65, 0, .35, 1);
+  animation-fill-mode: both;
+  mix-blend-mode: normal;
+  opacity: 1;
+}
+html[data-page="solutions"]::view-transition-old(root) { animation-name: page-leave-left; }
+html[data-page="solutions"]::view-transition-new(root) { animation-name: page-enter-right; }
+html[data-page="mockup"]::view-transition-old(root) { animation-name: page-leave-right; }
+html[data-page="mockup"]::view-transition-new(root) { animation-name: page-enter-left; }
+html[data-slide-pending]::view-transition-old(root),
+html[data-slide-pending]::view-transition-new(root) { animation-play-state: paused; }
+
+@keyframes page-leave-left { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+@keyframes page-enter-right { from { transform: translateX(100%); } to { transform: translateX(0); } }
+@keyframes page-leave-right { from { transform: translateX(0); } to { transform: translateX(100%); } }
+@keyframes page-enter-left { from { transform: translateX(-100%); } to { transform: translateX(0); } }
+
+.mockup-return {
+  position: fixed;
+  z-index: 850;
+  top: 50%;
+  left: max(18px, env(safe-area-inset-left));
+  transform: translateY(-50%);
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border: 1px solid #c9e3ff;
+  border-radius: 50%;
+  background: #e2f0ff;
+  color: #0071e3;
+  box-shadow: 0 3px 14px #0071e314;
+  transition: background .2s, box-shadow .2s;
+}
+.mockup-return:hover { background: #d2e8ff; box-shadow: 0 4px 20px #0071e324; }
+.mockup-return:focus-visible { outline: 2px solid #0071e3; outline-offset: 4px; }
+.mockup-return svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.mockup-return__label {
+  position: absolute;
+  left: calc(100% + 9px);
+  padding: 6px 11px;
+  border-radius: 20px;
+  background: #e2f0ff;
+  color: #0068cc;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateX(-4px);
+  pointer-events: none;
+  transition: opacity .18s, transform .18s;
+}
+.mockup-return:is(:hover, :focus-visible) .mockup-return__label { opacity: 1; transform: translateX(0); }
+body.modal-open .mockup-return { visibility: hidden; }
+@media (max-width: 700px) { .mockup-return { left: max(10px, env(safe-area-inset-left)); width: 36px; height: 36px; } }
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+  ::view-transition-group(root), ::view-transition-old(root), ::view-transition-new(root) { animation: none !important; }
+  .mockup-return, .mockup-return__label { transition: none; }
+}
+
+/* Mobile and older browsers slide one live page at a time, without retaining
+   cross-document WebGL snapshots. Airport selection never adds these states. */
+html[data-slide-exit],html[data-slide-enter]{overflow-x:clip}
+html[data-slide-exit] body{pointer-events:none;animation:mobile-slide-out-left 460ms cubic-bezier(.55,0,.3,1) both}
+html[data-slide-exit=right] body{animation-name:mobile-slide-out-right}
+html[data-slide-enter] body{animation:mobile-slide-in-right 650ms cubic-bezier(.2,.65,.3,1) both}
+html[data-slide-enter=right] body{animation-name:mobile-slide-in-left}
+@keyframes mobile-slide-out-left{from{transform:translateX(0);opacity:1}to{transform:translateX(-28%);opacity:0}}
+@keyframes mobile-slide-out-right{from{transform:translateX(0);opacity:1}to{transform:translateX(28%);opacity:0}}
+@keyframes mobile-slide-in-right{from{transform:translateX(28%);opacity:0}to{transform:translateX(0);opacity:1}}
+@keyframes mobile-slide-in-left{from{transform:translateX(-28%);opacity:0}to{transform:translateX(0);opacity:1}}
+@media(prefers-reduced-motion:reduce){html[data-slide-exit] body,html[data-slide-enter] body{animation:none}}

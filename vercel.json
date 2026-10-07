@@ -1,11 +1,34 @@
 {
   "headers": [
     {
-      "source": "/web/(.*)\\.(mp4|webm|webp|png)$",
+      "source": "/web/airport-mockup/(.*)\\.(glb|bin|json)",
+      "has": [{ "type": "query", "key": "v", "value": "[a-f0-9]{16}" }],
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    },
+    {
+      "source": "/web/(.*)\\.(mp4|webm|webp|png)",
       "headers": [
         {
           "key": "Cache-Control",
           "value": "public, max-age=604800, stale-while-revalidate=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/web/airport-mockup/textures/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/web/i18n/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
         }
       ]
     }

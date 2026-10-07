@@ -37,7 +37,7 @@ KO = {
         "aria_preview_airside": "BluPrint Airside Designer preview",
         "aria_preview_mp": "BluPrint Master Planner preview",
         "simmula_intro_small": "Simmula Terminal Optimizer",
-        "simmula_intro_h2": "Minimize queues, maximize revenue",
+        "simmula_intro_h2": "Minimize passenger queues, maximize revenue",
         "simmula_intro_p": "승객 대기열, 시설 활용도, 동선을 동시에 분석합니다.",
         "simmula_f1_h3": """승객 <span class="feature-scenario-badge">대기열</span>, <span class="feature-purple-badge">시설 활용도</span>, <span class="feature-flow-badge">동선</span>을 동시에 분석합니다""",
         "simmula_f2_h3": """전 세계 <span class="feature-purple-badge">1만 개 이상의 공항</span>에 접근하고, 여러 공항에 걸친 수요 시나리오로 <span class="feature-accent">신규 공항 개발</span>까지 평가할 수 있습니다""",

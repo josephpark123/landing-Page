@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "generatedAt": 1788860955.3288488,
+  "loadMode": "prebuilt-static",
+  "airports": [
+    {
+      "icao": "RKSI",
+      "iata": "ICN",
+      "name": "Incheon",
+      "city": "Incheon, South Korea",
+      "assetBase": "/web/airport-mockup/",
+      "sourceScenario": "RKSI_INITIAL_R1_NORMAL",
+      "counts": {
+        "flights": 48,
+        "terminals": 7,
+        "runways": 4,
+        "roads": 316,
+        "drawBatches": 23,
+        "generalBuildings": 17
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 2240128,
+          "sha256": "2f39fa65873ef911d974e9e1bb8c900e7e412a4e3526fb98d26c82886054d468"
+        },
+        "scene.json": {
+          "bytes": 688325,
+          "sha256": "af5cdaf857c87871d20a6059910df45bf6a4fc47486dd199a0aa75ee2bf5396d"
+        },
+        "replay.bin": {
+          "bytes": 903500,
+          "sha256": "9eeadab6b9ae1029f120a9f0a9ec0ca46c4ec80c9b6d85c1f76eaa4f6aeff21d"
+        }
+      },
+      "method": "existing landing model"
+    },
+    {
+      "icao": "RPLL",
+      "iata": "MNL",
+      "name": "Manila",
+      "city": "Manila, Philippines",
+      "assetBase": "/web/airport-mockup/airports/RPLL/",
+      "sourceScenario": "REAL_MODEL_COPY",
+      "counts": {
+        "flights": 78,
+        "terminals": 96,
+        "runways": 2,
+        "roads": 255,
+        "drawBatches": 22,
+        "generalBuildings": 169
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 3069164,
+          "sha256": "e8a5a06d5ca29872f789627d7be70afa7e9a11c460c70378b1923ad556896758"
+        },
+        "scene.json": {
+          "bytes": 330145,
+          "sha256": "d7bf215d3dd05fac069411d67731fac0f6f4f06740b781cab7848e6d49982419"
+        },
+        "replay.bin": {
+          "bytes": 424600,
+          "sha256": "f0e853d89ad7e1721ea5c1f3fea6489e780939174df080d82c8329538234ac2c"
+        }
+      },
+      "method": "reused matching export",
+      "playbackWindow": {
+        "start": 111600,
+        "end": 115200,
+        "loop": true
+      }
+    },
+    {
+      "icao": "RJAA",
+      "iata": "NRT",
+      "name": "Narita",
+      "city": "Narita, Japan",
+      "assetBase": "/web/airport-mockup/airports/RJAA/",
+      "sourceScenario": "RJAA_INITIAL",
+      "counts": {
+        "flights": 10,
+        "terminals": 6,
+        "runways": 2,
+        "roads": 457,
+        "drawBatches": 23,
+        "generalBuildings": 63
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 2255308,
+          "sha256": "a01813cc2c61f6d7f9cda31306795b457a21b31111962e5612b93959f10c6058"
+        },
+        "scene.json": {
+          "bytes": 538654,
+          "sha256": "05339281e208f5c017c35126c1ab8b1b41b19d77b4166eaa0a1f3572a47b322c"
+        },
+        "replay.bin": {
+          "bytes": 198960,
+          "sha256": "6b4874e0791175671d360715d78afc9ba896f02cfe1ffcc7c72c89d0fbd367d3"
+        }
+      },
+      "method": "reused matching export"
+    },
+    {
+      "icao": "VTBS",
+      "iata": "BKK",
+      "name": "Suvarnabhumi",
+      "city": "Bangkok, Thailand",
+      "assetBase": "/web/airport-mockup/airports/VTBS/",
+      "sourceScenario": "VTBS_INITIAL",
+      "counts": {
+        "flights": 10,
+        "terminals": 2,
+        "runways": 3,
+        "roads": 1015,
+        "drawBatches": 22,
+        "generalBuildings": 55
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 2118700,
+          "sha256": "5baaeeaff9dcfcb301c27da78aad8e39bc3ddb47b2fd6c418114ccd229d5220a"
+        },
+        "scene.json": {
+          "bytes": 318581,
+          "sha256": "1b5db90bda4688ae9615978ce1caa77e449ab5c96a0a70b26d2f2ba9790b6ebc"
+        },
+        "replay.bin": {
+          "bytes": 213260,
+          "sha256": "a16d497d29f588aabce093cea5a53ac2865abf1203e87f0e5c715b41f7cbb5b7"
+        }
+      },
+      "method": "reused matching export"
+    },
+    {
+      "icao": "VVTS",
+      "iata": "SGN",
+      "name": "Tan Son Nhat",
+      "city": "Ho Chi Minh City, Vietnam",
+      "assetBase": "/web/airport-mockup/airports/VVTS/",
+      "sourceScenario": "VVTS_INITIAL",
+      "counts": {
+        "flights": 10,
+        "terminals": 15,
+        "runways": 2,
+        "roads": 608,
+        "drawBatches": 23,
+        "generalBuildings": 43
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 1287832,
+          "sha256": "0876504568f152a73b434fb06f11c716eff8e14be163f2fc9314170d048a064c"
+        },
+        "scene.json": {
+          "bytes": 119695,
+          "sha256": "01387954ee7c9f598dfaf2adbd130a679ad3ad8350a762bcb0f6a6e8795df777"
+        },
+        "replay.bin": {
+          "bytes": 237340,
+          "sha256": "8beabc329dc79015f535fc332fef49bd810486de165c9ad41208442742956a78"
+        }
+      },
+      "method": "reused matching export"
+    },
+    {
+      "icao": "LOWW",
+      "iata": "VIE",
+      "name": "Vienna",
+      "city": "Vienna, Austria",
+      "assetBase": "/web/airport-mockup/airports/LOWW/",
+      "sourceScenario": "LOWW_INITIAL",
+      "counts": {
+        "flights": 10,
+        "terminals": 25,
+        "runways": 2,
+        "roads": 236,
+        "drawBatches": 23,
+        "generalBuildings": 45
+      },
+      "assets": {
+        "airport-scene.glb": {
+          "bytes": 1547032,
+          "sha256": "0f2cb889e5a3a7dd7b05dce64487b3d8074a90a436a5caefb43921c3fc84db79"
+        },
+        "scene.json": {
+          "bytes": 238180,
+          "sha256": "57f917ae22cb2d045902a67792773dbeef496ece2ac3577288d1c9ae9cdbab52"
+        },
+        "replay.bin": {
+          "bytes": 219800,
+          "sha256": "d983405c380a205da9847c0c7e703ae126e746302e2014793e842e2cc261a34e"
+        }
+      },
+      "method": "reused matching export"
+    }
+  ],
+  "sharedTextures": [
+    {
+      "url": "/web/airport-mockup/textures/330540e11a46545e32900134d246dcb9f64aa4cc712f80b6b50886e75750386f.jpg",
+      "bytes": 472204,
+      "sha256": "330540e11a46545e32900134d246dcb9f64aa4cc712f80b6b50886e75750386f"
+    },
+    {
+      "url": "/web/airport-mockup/textures/3a4902f2311f3686c5028cd44e16415288e8edbe3074d0f654b4f35e7048139f.jpg",
+      "bytes": 359561,
+      "sha256": "3a4902f2311f3686c5028cd44e16415288e8edbe3074d0f654b4f35e7048139f"
+    },
+    {
+      "url": "/web/airport-mockup/textures/4af1ca2b378eeec43373219aa8c920a2889c230591569ad807cb2d111771f1e1.jpg",
+      "bytes": 342563,
+      "sha256": "4af1ca2b378eeec43373219aa8c920a2889c230591569ad807cb2d111771f1e1"
+    },
+    {
+      "url": "/web/airport-mockup/textures/58a7e31ee10873587f38aa579f9c0fa27b04a965a59d06aa3d4eb497186f5410.jpg",
+      "bytes": 513740,
+      "sha256": "58a7e31ee10873587f38aa579f9c0fa27b04a965a59d06aa3d4eb497186f5410"
+    },
+    {
+      "url": "/web/airport-mockup/textures/6b475bc0e2ceb720d857656412bab153373da0fa68af61f9f76a6ab6792050eb.jpg",
+      "bytes": 26158,
+      "sha256": "6b475bc0e2ceb720d857656412bab153373da0fa68af61f9f76a6ab6792050eb"
+    },
+    {
+      "url": "/web/airport-mockup/textures/928f5a0260e44e253d0fcba7717dcd9f36a3ec944e0dada14ffc3e3776cead3a.jpg",
+      "bytes": 466675,
+      "sha256": "928f5a0260e44e253d0fcba7717dcd9f36a3ec944e0dada14ffc3e3776cead3a"
+    },
+    {
+      "url": "/web/airport-mockup/textures/e430edf66b59d4c5840c3f79a241a53fd40a2440d1e77ad4e5c14a61964dd070.jpg",
+      "bytes": 644682,
+      "sha256": "e430edf66b59d4c5840c3f79a241a53fd40a2440d1e77ad4e5c14a61964dd070"
+    },
+    {
+      "url": "/web/airport-mockup/textures/f5184335299dcfb9cff0ed0d3f9559e135b750c345e8d68b53214169a2309f64.jpg",
+      "bytes": 35709,
+      "sha256": "f5184335299dcfb9cff0ed0d3f9559e135b750c345e8d68b53214169a2309f64"
+    },
+    {
+      "url": "/web/airport-mockup/textures/ff9a5578b28ff54dc3c15328df47b0d48b077a32e2d2d4de0c8c84a8912a229a.jpg",
+      "bytes": 104739,
+      "sha256": "ff9a5578b28ff54dc3c15328df47b0d48b077a32e2d2d4de0c8c84a8912a229a"
+    }
+  ]
+}

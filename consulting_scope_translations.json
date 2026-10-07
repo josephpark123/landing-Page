@@ -1,0 +1,212 @@
+{
+  "en": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Minimize passenger queues, maximize revenue",
+    "consulting_overall_07_title": "National multi-airport master planning",
+    "consulting_overall_07_role": "Develop national master plans covering multiple airports, assessing airport roles, demand allocation, capacity and phased development priorities.",
+    "consulting_overall_08_title": "Preliminary studies for airport expansion and new airports",
+    "consulting_overall_08_role": "Undertake preliminary studies for individual airport expansions and new-airport projects, assessing demand, facility requirements and development alternatives.",
+    "consulting_expertise_06_title": "Consulting with TAAM, CAST and other solutions",
+    "consulting_expertise_06_description": "Consulting can also be delivered using TAAM, CAST and other simulation tools alongside our solutions, according to the study scope and project requirements."
+  },
+  "ko": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "승객 대기열은 줄이고, 수익은 높이세요",
+    "consulting_overall_07_title": "국가 단위 다중공항 마스터플래닝",
+    "consulting_overall_07_role": "여러 공항의 역할, 수요 배분, 시설 용량과 단계별 개발 우선순위를 검토하는 국가 단위 마스터플래닝을 지원합니다.",
+    "consulting_overall_08_title": "개별 공항 확장·신공항 개발 Preliminary Study",
+    "consulting_overall_08_role": "개별 공항 확장과 신공항 개발을 위한 Preliminary Study를 수행하며, 수요, 시설 요구사항과 개발 대안을 검토합니다.",
+    "consulting_expertise_06_title": "TAAM·CAST 등 타 솔루션 연계 컨설팅",
+    "consulting_expertise_06_description": "프로젝트 목적과 검토 범위에 따라 TAAM, CAST 등 타 시뮬레이션 솔루션과 연계한 컨설팅도 제공합니다."
+  },
+  "zh": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "最大限度地减少乘客排队，最大限度地提高收入",
+    "consulting_overall_07_title": "国家多机场总体规划",
+    "consulting_overall_07_role": "制定涵盖多个机场的国家总体规划，评估机场角色、需求分配、容量和分阶段发展优先事项。",
+    "consulting_overall_08_title": "机场扩建和新机场的初步研究",
+    "consulting_overall_08_role": "对个别机场扩建和新机场项目进行初步研究，评估需求、设施要求和开发方案。",
+    "consulting_expertise_06_title": "咨询TAAM、CAST等解决方案",
+    "consulting_expertise_06_description": "根据研究范围和项目要求，还可以使用 TAAM、CAST 和其他模拟工具以及我们的解决方案来提供咨询。"
+  },
+  "ja": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "乗客の行列を最小限に抑え、収益を最大化",
+    "consulting_overall_07_title": "全国複数空港マスタープラン",
+    "consulting_overall_07_role": "複数の空港を対象とした国家マスタープランを作成し、空港の役割、需要配分、容量、段階的な開発の優先順位を評価します。",
+    "consulting_overall_08_title": "空港拡張・新規空港の事前調査",
+    "consulting_overall_08_role": "個々の空港拡張や新空港プロジェクトの予備調査を実施し、需要、施設要件、開発代替案を評価します。",
+    "consulting_expertise_06_title": "TAAM、CASTなどのソリューションによるコンサルティング",
+    "consulting_expertise_06_description": "研究範囲やプロジェクトの要件に応じて、TAAM、CAST、その他のシミュレーション ツールを当社のソリューションとともに使用してコンサルティングを提供することもできます。"
+  },
+  "es": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Minimiza las colas de pasajeros, maximiza los ingresos",
+    "consulting_overall_07_title": "Plan maestro nacional multiaeroportuario",
+    "consulting_overall_07_role": "Desarrollar planes maestros nacionales que abarquen múltiples aeropuertos, evaluando las funciones de los aeropuertos, la asignación de la demanda, la capacidad y las prioridades de desarrollo por fases.",
+    "consulting_overall_08_title": "Estudios preliminares para ampliación aeroportuaria y nuevos aeropuertos",
+    "consulting_overall_08_role": "Realizar estudios preliminares para ampliaciones de aeropuertos individuales y proyectos de nuevos aeropuertos, evaluando la demanda, los requisitos de las instalaciones y las alternativas de desarrollo.",
+    "consulting_expertise_06_title": "Consultoría con TAAM, CAST y otras soluciones",
+    "consulting_expertise_06_description": "También se puede brindar consultoría utilizando TAAM, CAST y otras herramientas de simulación junto con nuestras soluciones, de acuerdo con el alcance del estudio y los requisitos del proyecto."
+  },
+  "th": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "ลดจำนวนคิวผู้โดยสาร เพิ่มรายได้สูงสุด",
+    "consulting_overall_07_title": "การวางแผนแม่บทหลายสนามบินแห่งชาติ",
+    "consulting_overall_07_role": "พัฒนาแผนแม่บทระดับชาติที่ครอบคลุมสนามบินหลายแห่ง การประเมินบทบาทของสนามบิน การจัดสรรความต้องการ ความจุ และลำดับความสำคัญของการพัฒนาแบบเป็นขั้นตอน",
+    "consulting_overall_08_title": "การศึกษาเบื้องต้นเกี่ยวกับการขยายสนามบินและสนามบินใหม่",
+    "consulting_overall_08_role": "ดำเนินการศึกษาเบื้องต้นสำหรับการขยายสนามบินแต่ละแห่งและโครงการสนามบินใหม่ ประเมินความต้องการ ข้อกำหนดสิ่งอำนวยความสะดวก และทางเลือกในการพัฒนา",
+    "consulting_expertise_06_title": "ให้คำปรึกษากับ TAAM, CAST และโซลูชั่นอื่นๆ",
+    "consulting_expertise_06_description": "การให้คำปรึกษาสามารถทำได้โดยใช้ TAAM, CAST และเครื่องมือจำลองอื่นๆ ควบคู่ไปกับโซลูชันของเรา ตามขอบเขตการศึกษาและข้อกำหนดของโครงการ"
+  },
+  "vi": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Giảm thiểu hàng đợi hành khách, tối đa hóa doanh thu",
+    "consulting_overall_07_title": "Quy hoạch tổng thể nhiều sân bay quốc gia",
+    "consulting_overall_07_role": "Xây dựng quy hoạch tổng thể quốc gia bao gồm nhiều sân bay, đánh giá vai trò của sân bay, phân bổ nhu cầu, năng lực và ưu tiên phát triển theo từng giai đoạn.",
+    "consulting_overall_08_title": "Nghiên cứu sơ bộ về mở rộng sân bay và xây dựng sân bay mới",
+    "consulting_overall_08_role": "Thực hiện các nghiên cứu sơ bộ về việc mở rộng sân bay riêng lẻ và các dự án sân bay mới, đánh giá nhu cầu, yêu cầu về cơ sở vật chất và các phương án phát triển.",
+    "consulting_expertise_06_title": "Tư vấn với TAAM, CAST và các giải pháp khác",
+    "consulting_expertise_06_description": "Tư vấn cũng có thể được thực hiện bằng TAAM, CAST và các công cụ mô phỏng khác cùng với các giải pháp của chúng tôi, tùy theo phạm vi nghiên cứu và yêu cầu của dự án."
+  },
+  "id": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Minimalkan antrian penumpang, maksimalkan pendapatan",
+    "consulting_overall_07_title": "Perencanaan induk multibandara nasional",
+    "consulting_overall_07_role": "Mengembangkan rencana induk nasional yang mencakup beberapa bandara, menilai peran bandara, alokasi permintaan, kapasitas dan prioritas pembangunan bertahap.",
+    "consulting_overall_08_title": "Kajian pendahuluan perluasan bandara dan bandar udara baru",
+    "consulting_overall_08_role": "Melakukan studi pendahuluan untuk perluasan masing-masing bandara dan proyek bandara baru, menilai permintaan, persyaratan fasilitas, dan alternatif pengembangan.",
+    "consulting_expertise_06_title": "Berkonsultasi dengan TAAM, CAST dan solusi lainnya",
+    "consulting_expertise_06_description": "Konsultasi juga dapat disampaikan menggunakan TAAM, CAST, dan alat simulasi lainnya bersama dengan solusi kami, sesuai dengan ruang lingkup studi dan persyaratan proyek."
+  },
+  "ru": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Минимизируйте пассажирские очереди, максимизируйте доход",
+    "consulting_overall_07_title": "Генеральный план национального мультиаэропорта",
+    "consulting_overall_07_role": "Разработать национальные генеральные планы, охватывающие несколько аэропортов, оценивая роли аэропортов, распределение спроса, пропускную способность и приоритеты поэтапного развития.",
+    "consulting_overall_08_title": "Предварительные исследования по расширению аэропорта и созданию новых аэропортов",
+    "consulting_overall_08_role": "Провести предварительные исследования для расширения отдельных аэропортов и проектов строительства новых аэропортов, оценивая спрос, требования к объектам и альтернативы развития.",
+    "consulting_expertise_06_title": "Консультации по TAAM, CAST и другим решениям",
+    "consulting_expertise_06_description": "Консультации также могут предоставляться с использованием TAAM, CAST и других инструментов моделирования наряду с нашими решениями, в зависимости от объема исследования и требований проекта."
+  },
+  "uz": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Yo'lovchi navbatlarini minimallashtiring, daromadni maksimal darajada oshiring",
+    "consulting_overall_07_title": "Milliy ko'p aeroportli bosh rejalashtirish",
+    "consulting_overall_07_role": "Bir nechta aeroportlarni o'z ichiga olgan milliy bosh rejalarni ishlab chiqish, aeroport rollarini baholash, talablarni taqsimlash, imkoniyatlar va bosqichma-bosqich rivojlantirish ustuvorliklari.",
+    "consulting_overall_08_title": "Aeroportni kengaytirish va yangi aeroportlar bo'yicha dastlabki tadqiqotlar",
+    "consulting_overall_08_role": "Aeroportning individual kengaytirilishi va yangi aeroport loyihalari uchun dastlabki tadqiqotlarni o'tkazing, talabni, ob'ekt talablarini va rivojlanish alternativlarini baholang.",
+    "consulting_expertise_06_title": "TAAM, CAST va boshqa yechimlar bilan maslahatlashish",
+    "consulting_expertise_06_description": "Konsalting, shuningdek, o'rganish ko'lami va loyiha talablariga muvofiq, bizning yechimlarimiz bilan bir qatorda TAAM, CAST va boshqa simulyatsiya vositalaridan foydalangan holda ham taqdim etilishi mumkin."
+  },
+  "kk": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Жолаушылар кезегін азайтыңыз, кірісті арттырыңыз",
+    "consulting_overall_07_title": "Ұлттық көп әуежайдың бас жоспары",
+    "consulting_overall_07_role": "Бірнеше әуежайларды қамтитын ұлттық бас жоспарларды әзірлеу, әуежай рөлдерін бағалау, сұранысты бөлу, қуаттылық және кезең-кезеңімен даму басымдықтары.",
+    "consulting_overall_08_title": "Әуежайды кеңейту және жаңа әуежайлар бойынша алдын ала зерттеулер",
+    "consulting_overall_08_role": "Әуежайдың жеке кеңейтулері мен жаңа әуежай жобалары үшін сұранысты, нысан талаптарын және даму баламаларын бағалай отырып, алдын ала зерттеулер жүргізу.",
+    "consulting_expertise_06_title": "TAAM, CAST және басқа шешімдермен кеңесу",
+    "consulting_expertise_06_description": "Кеңес беруді зерттеу көлемі мен жоба талаптарына сәйкес шешімдерімізбен қатар TAAM, CAST және басқа модельдеу құралдары арқылы да беруге болады."
+  },
+  "de": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Warteschlangen für Passagiere minimieren und Einnahmen maximieren",
+    "consulting_overall_07_title": "Nationale Masterplanung für mehrere Flughäfen",
+    "consulting_overall_07_role": "Entwickeln Sie nationale Masterpläne für mehrere Flughäfen und bewerten Sie die Flughafenrollen, die Nachfrageverteilung, die Kapazität und die stufenweisen Entwicklungsprioritäten.",
+    "consulting_overall_08_title": "Vorstudien für Flughafenausbau und neue Flughäfen",
+    "consulting_overall_08_role": "Führen Sie Vorstudien für einzelne Flughafenerweiterungen und neue Flughafenprojekte durch und bewerten Sie die Nachfrage, die Anlagenanforderungen und Entwicklungsalternativen.",
+    "consulting_expertise_06_title": "Beratung mit TAAM, CAST und anderen Lösungen",
+    "consulting_expertise_06_description": "Die Beratung kann je nach Studienumfang und Projektanforderungen neben unseren Lösungen auch mit TAAM, CAST und anderen Simulationstools durchgeführt werden."
+  },
+  "fr": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Réduire les files d'attente des passagers, maximiser les revenus",
+    "consulting_overall_07_title": "Plan directeur national multi-aéroportuaire",
+    "consulting_overall_07_role": "Élaborer des plans directeurs nationaux couvrant plusieurs aéroports, en évaluant les rôles des aéroports, la répartition de la demande, la capacité et les priorités de développement par étapes.",
+    "consulting_overall_08_title": "Etudes préliminaires pour l'agrandissement de l'aéroport et les nouveaux aéroports",
+    "consulting_overall_08_role": "Entreprendre des études préliminaires pour les agrandissements d’aéroports individuels et les projets de nouveaux aéroports, en évaluant la demande, les exigences en matière d’installations et les alternatives de développement.",
+    "consulting_expertise_06_title": "Conseil avec TAAM, CAST et autres solutions",
+    "consulting_expertise_06_description": "Le conseil peut également être dispensé à l'aide de TAAM, CAST et d'autres outils de simulation parallèlement à nos solutions, en fonction du périmètre de l'étude et des exigences du projet."
+  },
+  "ar": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "تقليل طوابير الركاب، وتعظيم الإيرادات",
+    "consulting_overall_07_title": "التخطيط الرئيسي الوطني متعدد المطارات",
+    "consulting_overall_07_role": "تطوير خطط رئيسية وطنية تغطي مطارات متعددة، وتقييم أدوار المطارات، وتخصيص الطلب، والقدرة، وأولويات التطوير المرحلية.",
+    "consulting_overall_08_title": "الدراسات الأولية لتوسعة المطارات والمطارات الجديدة",
+    "consulting_overall_08_role": "إجراء دراسات أولية لتوسعات المطارات الفردية ومشاريع المطارات الجديدة، وتقييم الطلب ومتطلبات المرافق وبدائل التطوير.",
+    "consulting_expertise_06_title": "التشاور مع TAAM وCAST والحلول الأخرى",
+    "consulting_expertise_06_description": "ويمكن أيضًا تقديم الاستشارات باستخدام TAAM وCAST وأدوات المحاكاة الأخرى جنبًا إلى جنب مع حلولنا، وفقًا لنطاق الدراسة ومتطلبات المشروع."
+  },
+  "km": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "កាត់បន្ថយជួរអ្នកដំណើរ បង្កើនប្រាក់ចំណូល",
+    "consulting_overall_07_title": "ផែនការមេពហុព្រលានយន្តហោះជាតិ",
+    "consulting_overall_07_role": "បង្កើតផែនការមេថ្នាក់ជាតិដែលគ្របដណ្តប់ព្រលានយន្តហោះជាច្រើន វាយតម្លៃតួនាទីព្រលានយន្តហោះ ការបែងចែកតម្រូវការ សមត្ថភាព និងអាទិភាពនៃការអភិវឌ្ឍន៍ជាដំណាក់កាល។",
+    "consulting_overall_08_title": "ការសិក្សាបឋមសម្រាប់ការពង្រីកព្រលានយន្តហោះ និងព្រលានយន្តហោះថ្មី។",
+    "consulting_overall_08_role": "អនុវត្តការសិក្សាបឋមសម្រាប់ការពង្រីកអាកាសយានដ្ឋានបុគ្គល និងគម្រោងព្រលានយន្តហោះថ្មី ការវាយតម្លៃតម្រូវការ តម្រូវការបរិក្ខារ និងជម្រើសនៃការអភិវឌ្ឍន៍។",
+    "consulting_expertise_06_title": "ការប្រឹក្សាជាមួយ TAAM, CAST និងដំណោះស្រាយផ្សេងទៀត។",
+    "consulting_expertise_06_description": "ការប្រឹក្សាក៏អាចត្រូវបានផ្តល់ជូនដោយប្រើ TAAM, CAST និងឧបករណ៍ក្លែងធ្វើផ្សេងទៀត រួមជាមួយនឹងដំណោះស្រាយរបស់យើង យោងទៅតាមវិសាលភាពសិក្សា និងតម្រូវការគម្រោង។"
+  },
+  "am": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "የተሳፋሪዎችን ወረፋ ይቀንሱ፣ ገቢን ያሳድጉ",
+    "consulting_overall_07_title": "ብሔራዊ የብዝሃ-ኤርፖርት ማስተር ፕላን",
+    "consulting_overall_07_role": "በርካታ ኤርፖርቶችን የሚሸፍኑ፣ የኤርፖርት ሚናዎችን መገምገም፣ የፍላጎት ድልድል፣ የአቅም እና ደረጃ በደረጃ የልማት ቅድሚያ የሚሰጣቸውን ብሔራዊ ማስተር ፕላኖች ማዘጋጀት።",
+    "consulting_overall_08_title": "ለአየር ማረፊያ ማስፋፊያ እና ለአዳዲስ አየር ማረፊያዎች የመጀመሪያ ደረጃ ጥናቶች",
+    "consulting_overall_08_role": "ለግል የኤርፖርት ማስፋፊያዎች እና ለአዲስ-ኤርፖርት ፕሮጄክቶች የመጀመሪያ ደረጃ ጥናቶችን ያካሂዱ ፣ ፍላጎትን ፣ የመገልገያ መስፈርቶችን እና የልማት አማራጮችን ይገመግማሉ።",
+    "consulting_expertise_06_title": "ከTAAM፣ CAST እና ሌሎች መፍትሄዎች ጋር መማከር",
+    "consulting_expertise_06_description": "በጥናቱ ወሰን እና በፕሮጀክት መስፈርቶች መሰረት አማካሪዎች TAAM፣CAST እና ሌሎች የማስመሰል መሳሪያዎችን ከኛ መፍትሄዎች ጎን ለጎን ማድረስ ይቻላል።"
+  },
+  "ur": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "مسافروں کی قطاروں کو کم سے کم کریں، آمدنی کو زیادہ سے زیادہ کریں۔",
+    "consulting_overall_07_title": "نیشنل ملٹی ایئرپورٹ ماسٹر پلاننگ",
+    "consulting_overall_07_role": "متعدد ہوائی اڈوں کا احاطہ کرنے والے قومی ماسٹر پلانز تیار کریں، ہوائی اڈوں کے کرداروں کا جائزہ لیں، ڈیمانڈ ایلوکیشن، صلاحیت اور مرحلہ وار ترقی کی ترجیحات۔",
+    "consulting_overall_08_title": "ہوائی اڈے کی توسیع اور نئے ہوائی اڈوں کے لیے ابتدائی مطالعات",
+    "consulting_overall_08_role": "انفرادی ہوائی اڈے کی توسیع اور نئے ہوائی اڈے کے منصوبوں کے لیے ابتدائی مطالعہ کریں، طلب، سہولت کی ضروریات اور ترقیاتی متبادلات کا اندازہ کریں۔",
+    "consulting_expertise_06_title": "TAAM، CAST اور دیگر حل کے ساتھ مشاورت",
+    "consulting_expertise_06_description": "مطالعہ کے دائرہ کار اور پروجیکٹ کی ضروریات کے مطابق، ہمارے حل کے ساتھ ساتھ TAAM، CAST اور دیگر نقلی ٹولز کا استعمال کرتے ہوئے بھی مشاورت فراہم کی جا سکتی ہے۔"
+  },
+  "pt": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Minimize as filas de passageiros e maximize a receita",
+    "consulting_overall_07_title": "Planejamento mestre multiaeroporto nacional",
+    "consulting_overall_07_role": "Desenvolver planos diretores nacionais que abranjam vários aeroportos, avaliando as funções dos aeroportos, a alocação da procura, a capacidade e as prioridades de desenvolvimento faseadas.",
+    "consulting_overall_08_title": "Estudos preliminares para expansão aeroportuária e novos aeroportos",
+    "consulting_overall_08_role": "Realizar estudos preliminares para expansões de aeroportos individuais e projetos de novos aeroportos, avaliando a demanda, requisitos de instalações e alternativas de desenvolvimento.",
+    "consulting_expertise_06_title": "Consultoria com TAAM, CAST e outras soluções",
+    "consulting_expertise_06_description": "A consultoria também pode ser realizada utilizando TAAM, CAST e outras ferramentas de simulação juntamente com nossas soluções, de acordo com o escopo do estudo e requisitos do projeto."
+  },
+  "it": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Riduci al minimo le code dei passeggeri, massimizza le entrate",
+    "consulting_overall_07_title": "Piano regolatore nazionale multi-aeroporto",
+    "consulting_overall_07_role": "Sviluppare piani generali nazionali che coprano più aeroporti, valutando i ruoli aeroportuali, l’allocazione della domanda, la capacità e le priorità di sviluppo graduale.",
+    "consulting_overall_08_title": "Studi preliminari per ampliamento aeroportuale e nuovi aeroporti",
+    "consulting_overall_08_role": "Intraprendere studi preliminari per espansioni di singoli aeroporti e progetti di nuovi aeroporti, valutando la domanda, i requisiti delle strutture e le alternative di sviluppo.",
+    "consulting_expertise_06_title": "Consulenza con TAAM, CAST e altre soluzioni",
+    "consulting_expertise_06_description": "La consulenza può essere fornita anche utilizzando TAAM, CAST e altri strumenti di simulazione insieme alle nostre soluzioni, a seconda dell'ambito di studio e dei requisiti del progetto."
+  },
+  "nl": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "Minimaliseer wachtrijen voor passagiers, maximaliseer de omzet",
+    "consulting_overall_07_title": "Nationale masterplanning voor meerdere luchthavens",
+    "consulting_overall_07_role": "Ontwikkel nationale masterplannen die meerdere luchthavens bestrijken, waarbij de luchthavenrollen, de toewijzing van de vraag, de capaciteit en de gefaseerde ontwikkelingsprioriteiten worden beoordeeld.",
+    "consulting_overall_08_title": "Voorstudies voor luchthavenuitbreiding en nieuwe luchthavens",
+    "consulting_overall_08_role": "Voer voorstudies uit voor individuele luchthavenuitbreidingen en nieuwe luchthavenprojecten, waarbij de vraag, faciliteitsvereisten en ontwikkelingsalternatieven worden beoordeeld.",
+    "consulting_expertise_06_title": "Overleg met TAAM, CAST en andere oplossingen",
+    "consulting_expertise_06_description": "Consulting kan naast onze oplossingen ook worden geleverd met behulp van TAAM, CAST en andere simulatietools, afhankelijk van de studieomvang en projectvereisten."
+  },
+  "he": {
+    "consulting_deliverables_03_title": "PDF, XLSX, DOCX",
+    "simmula_intro_h2": "צמצם למינימום את תורי הנוסעים, מקסם את ההכנסה",
+    "consulting_overall_07_title": "תכנון אב ארצי רב שדות תעופה",
+    "consulting_overall_07_role": "לפתח תוכניות אב לאומיות המכסות שדות תעופה מרובים, הערכת תפקידי שדות תעופה, הקצאת ביקושים, קיבולת וסדרי עדיפויות פיתוח מדורגים.",
+    "consulting_overall_08_title": "מחקרים מקדימים להרחבת שדות תעופה ושדות תעופה חדשים",
+    "consulting_overall_08_role": "לבצע מחקרים מקדימים עבור הרחבות בודדות של נמל תעופה ופרויקטים חדשים של נמל תעופה, תוך הערכת ביקוש, דרישות מתקנים וחלופות פיתוח.",
+    "consulting_expertise_06_title": "ייעוץ עם TAAM, CAST ופתרונות נוספים",
+    "consulting_expertise_06_description": "ניתן לספק ייעוץ גם באמצעות TAAM, CAST וכלי סימולציה נוספים לצד הפתרונות שלנו, בהתאם להיקף הלימוד ולדרישות הפרויקט."
+  }
+}

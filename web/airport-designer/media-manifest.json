@@ -1,0 +1,247 @@
+{
+  "format": "1080p30 H.264 High/4.1, yuv420p Rec.709, silent MP4 faststart; WebP posters",
+  "source_video_count": 23,
+  "preview_count": 24,
+  "assets": [
+    {
+      "id": "00-icn-night-preview",
+      "video": "00-icn-night-preview.mp4",
+      "poster": "00-icn-night-preview.webp",
+      "duration": 10.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 5951107,
+      "silent": true
+    },
+    {
+      "id": "01-bluprint-planning",
+      "video": "01-bluprint-planning.mp4",
+      "poster": "01-bluprint-planning.webp",
+      "duration": 10.5,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8445079,
+      "silent": true
+    },
+    {
+      "id": "02-worldwide-layouts",
+      "video": "02-worldwide-layouts.mp4",
+      "poster": "02-worldwide-layouts.webp",
+      "duration": 13.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 10315648,
+      "silent": true
+    },
+    {
+      "id": "03-small-airport",
+      "video": "03-small-airport.mp4",
+      "poster": "03-small-airport.webp",
+      "duration": 9.8,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 7815280,
+      "silent": true
+    },
+    {
+      "id": "04-greenfield-site",
+      "video": "04-greenfield-site.mp4",
+      "poster": "04-greenfield-site.webp",
+      "duration": 13.233333333333333,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 10124415,
+      "silent": true
+    },
+    {
+      "id": "05-bkk-modeling",
+      "video": "05-bkk-modeling.mp4",
+      "poster": "05-bkk-modeling.webp",
+      "duration": 16.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 9309900,
+      "silent": true
+    },
+    {
+      "id": "05-nrt-modeling",
+      "video": "05-nrt-modeling.mp4",
+      "poster": "05-nrt-modeling.webp",
+      "duration": 15.266666666666667,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 10478993,
+      "silent": true
+    },
+    {
+      "id": "06-fleet-ground-assets",
+      "video": "06-fleet-ground-assets.mp4",
+      "poster": "06-fleet-ground-assets.webp",
+      "duration": 17.9,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 5555295,
+      "silent": true
+    },
+    {
+      "id": "07-terminal-modeling",
+      "video": "07-terminal-modeling.mp4",
+      "poster": "07-terminal-modeling.webp",
+      "duration": 17.5,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8404421,
+      "silent": true
+    },
+    {
+      "id": "07-terminal-rendering",
+      "video": "07-terminal-rendering.mp4",
+      "poster": "07-terminal-rendering.webp",
+      "duration": 10.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8040598,
+      "silent": true
+    },
+    {
+      "id": "08-aircraft-movement",
+      "video": "08-aircraft-movement.mp4",
+      "poster": "08-aircraft-movement.webp",
+      "duration": 18.333333333333332,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 13142183,
+      "silent": true
+    },
+    {
+      "id": "08-aircraft-airspace",
+      "video": "08-aircraft-airspace.mp4",
+      "poster": "08-aircraft-airspace.webp",
+      "duration": 9.3,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 6985766,
+      "silent": true
+    },
+    {
+      "id": "09-delay-root-cause",
+      "video": "09-delay-root-cause.mp4",
+      "poster": "09-delay-root-cause.webp",
+      "duration": 14.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1960835,
+      "silent": true
+    },
+    {
+      "id": "10-departure-capacity",
+      "video": "10-departure-capacity.mp4",
+      "poster": "10-departure-capacity.webp",
+      "duration": 12.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 5828023,
+      "silent": true
+    },
+    {
+      "id": "11-landside-connections",
+      "video": "11-landside-connections.mp4",
+      "poster": "11-landside-connections.webp",
+      "duration": 9.866666666666667,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8048148,
+      "silent": true
+    },
+    {
+      "id": "12-mnl-2d-flow",
+      "video": "12-mnl-2d-flow.mp4",
+      "poster": "12-mnl-2d-flow.webp",
+      "duration": 8.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 5964625,
+      "silent": true
+    },
+    {
+      "id": "12-mnl-3d-flow",
+      "video": "12-mnl-3d-flow.mp4",
+      "poster": "12-mnl-3d-flow.webp",
+      "duration": 10.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 6784730,
+      "silent": true
+    },
+    {
+      "id": "13-turnaround-planning",
+      "video": "13-turnaround-planning.mp4",
+      "poster": "13-turnaround-planning.webp",
+      "duration": 10.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 3625937,
+      "silent": true
+    },
+    {
+      "id": "14-mnl-day",
+      "video": "14-mnl-day.mp4",
+      "poster": "14-mnl-day.webp",
+      "duration": 14.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 11041959,
+      "silent": true
+    },
+    {
+      "id": "14-mnl-night",
+      "video": "14-mnl-night.mp4",
+      "poster": "14-mnl-night.webp",
+      "duration": 12.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 9523531,
+      "silent": true
+    },
+    {
+      "id": "15-tower-planning",
+      "video": "15-tower-planning.mp4",
+      "poster": "15-tower-planning.webp",
+      "duration": 14.5,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 8226597,
+      "silent": true
+    },
+    {
+      "id": "15-tower-visibility",
+      "video": "15-tower-visibility.mp4",
+      "poster": "15-tower-visibility.webp",
+      "duration": 9.8,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 7620015,
+      "silent": true
+    },
+    {
+      "id": "16-emergency-response",
+      "video": "16-emergency-response.mp4",
+      "poster": "16-emergency-response.webp",
+      "duration": 11.0,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 7462816,
+      "silent": true
+    },
+    {
+      "id": "17-height-flood-risk",
+      "video": "17-height-flood-risk.mp4",
+      "poster": "17-height-flood-risk.webp",
+      "duration": 11.966666666666667,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 6551397,
+      "silent": true
+    }
+  ]
+}

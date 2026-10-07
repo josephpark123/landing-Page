@@ -1,2 +1,14 @@
 bash.exe.stackdump
 Design Guide.pptx
+.vercel
+.env*
+.playwright-cli/
+output/airport-mockup/
+output/airport-mockup-cache/
+output/airport-prebuild-cache/
+output/playwright/
+
+__pycache__/
+*.py[cod]
+output/
+tmp/

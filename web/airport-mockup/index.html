@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" data-page="mockup">
+<head>
+  <link rel="stylesheet" href="/web/page-transitions.css?v=4">
+  <script src="/web/page-transitions.js?v=mobile-final-2"></script>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Airport Mockup — TeamFlexa</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect rx='16' width='32' height='32' fill='%23252e29'/%3E%3Ctext x='8' y='24' font-size='24' fill='white' font-family='Arial' font-weight='700'%3EF%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="mockup.css?v=control-gap-3">
+</head>
+<body>
+  <header class="navigation"><a href="/" class="brand" aria-label="TeamFlexa home"><span class="brand-icon">F</span> Flexa</a></header>
+  <main id="experience" aria-label="Interactive Incheon airport scene">
+    <a href="/solutions.html" class="solutions-cta">Solutions <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h12m-5-5 5 5-5 5"/></svg></a>
+    <div id="viewport" tabindex="0" aria-label="Airport scene. Drag to orbit, scroll to zoom, right-drag to pan."></div>
+    <div class="scene-heading"><p class="eyebrow">INCHEON INTERNATIONAL AIRPORT</p><h1>An airport.<br><span>In motion.</span></h1><p class="intro">A new perspective on every movement.</p></div>
+    <div class="location"><span class="location-dot"></span><strong>RKSI</strong><span>Incheon, South Korea</span></div>
+    <div id="loader" class="loader" role="status"><span class="loading-orbit"></span><strong>Preparing your perspective</strong><span id="loading-detail">Loading the airport</span><div class="loading-track"><i id="loading-progress"></i></div></div>
+    <div class="view-tools" role="group" aria-label="Camera view">
+      <button id="cinematic" class="active" aria-pressed="true"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m7 4 9 6-9 6V4Z"/></svg>Cinematic</button>
+      <button id="overview">Overview</button><button id="terminal">Terminal</button><button id="airside">Airside</button>
+    </div>
+    <section class="playback" aria-label="Scenario playback">
+      <button id="play" class="play-button" aria-label="Pause replay" disabled><svg id="play-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zm6 0h4v14h-4z"/></svg></button>
+      <div class="timeline-block"><div class="timeline-labels"><span>SCENARIO REPLAY</span><output id="clock">12:01:00</output></div><input id="timeline" type="range" min="0" max="1" value="0" step="0.1" aria-label="Replay time" disabled><div class="time-ends"><span id="start-time">06:48</span><span id="end-time">13:04</span></div></div>
+      <button id="speed" class="speed" aria-label="Playback speed: 30 times" disabled>30×</button>
+      <div class="traffic-count"><strong id="visible-count">—</strong><span>active aircraft</span></div>
+    </section>
+    <footer class="scene-footer"><span>RKSI_INITIAL_R1_NORMAL</span><span>Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors</span></footer>
+  </main>
+  <script src="vendor/three.min.js"></script><script src="vendor/OrbitControls.js"></script><script src="vendor/GLTFLoader.js"></script><script src="vendor/DRACOLoader.js"></script><script src="weather.js?v=night-only-3"></script><script src="airports.js?v=lightweight-cache-1"></script><script src="taxiway-lines.js?v=5"></script><script src="mockup.js?v=lightweight-cache-1"></script>
+</body>
+</html>
